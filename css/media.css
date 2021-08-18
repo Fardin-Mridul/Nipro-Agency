@@ -1,0 +1,561 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+    /*header*/
+    .logo {
+        font-size: 25px;
+    }
+    .dropdown_custom[data-bs-popper] {
+        top: 50px;
+        left: -10px;
+    }
+    .dropdown_custom {
+        min-width: 280px;
+        padding: 5px 5px;
+    }
+    .bs_icon {
+        padding-top: 8px;
+        padding-left: 0px;
+    }
+    /*header*/
+    /*slider*/
+    .s_1 {
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+    .s_1 h1 {
+        text-align: center;
+        font-size: 35px;
+    }
+    .s_1 p {
+        padding-bottom: 20px!important;
+    }
+    .s_1 button {
+        padding: 8px 5px;
+    }
+    .ccp {
+        left: 155px;
+    }
+    .ccn {
+        left: 240px;
+    }
+    /*slider*/
+    /*service*/
+    .s_h1 {
+        font-size: 25px;
+        padding-bottom: 20px !important;
+    }
+    .s_p {
+        padding-bottom: 0px !important;
+    }
+    .s_h1 {
+        margin: 30px 0 25px 0;
+    }
+    /*service*/
+    /*about*/
+    .abs_h1 {
+        text-align: center;
+        font-size: 27px;
+    }
+    .abs_p {
+        padding: 10px 0 !important;
+    }
+    .abs_p1 {
+        margin-bottom: 30px;
+    }
+    /*about*/
+    /*product*/
+    .product {
+        padding-bottom: 20px;
+        padding-top: 45px;
+    }
+    .limba {
+        height: 50px;
+    }
+    .pr_head h1 {
+        font-size: 23px;
+    }
+    .dd_h1 {
+        font-size: 23px;
+    }
+    .cnavbtn {
+        margin: 30px 0 0px 20px;
+    }
+    .navu {
+        border: none;
+    }
+    .work_detail {
+        padding: 3px;
+    }
+    .overlay_icon {
+        font-size: 48px;
+        top: 44%;
+        left: 50%;
+    }
+    /*product*/
+    /*download*/
+    .download {
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+    .limba {
+        height: 75px;
+    }
+    .dd_h1 {
+        font-size: 23px;
+        margin-bottom: 45px;
+    }
+    .d_icon {
+        font-size: 42px;
+    }
+    .d_h1 {
+        margin: -38px 0px 35px 45px;
+    }
+    /*download*/
+    /*who work with us*/
+    .w_title h1 {
+        font-size: 24px;
+    }
+
+.who-row-wrapper {
+    padding-top: 35px;
+    padding-bottom: 40px;
+}
+
+
+/*who work with us*/
+
+
+/*pricing*/
+
+.pr1_text {
+    border: 1px solid #8e8e8e;
+    margin-top: -52px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.pr {
+    margin-top: -11px;
+}
+
+.pr h2 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.pr_a {
+    margin: 37px 67px;
+}
+.pricing2 {
+    margin: 10px 0 43px;
+    padding: 10px 0
+     }
+.pri2-wrapper h1 {
+     font-size: 15px;
+    text-align: center;
+}
+.pri2-btn {
+    text-align: center;
+}
+.pri2-btn button {
+    padding: 10px 9px;
+    margin-top: 15px;
+}
+.pri2-btn span i {
+    margin-left: 8px;
+}
+/*pricing*/
+    /*slider2*/
+    .sl-border {
+    padding: 12px 25px;
+    }
+    .sl-text h1 {
+    margin-top: 20px;
+    }
+    .sl-text h2 {
+    margin: 6px 0;
+    }
+    .sl-text p {
+    margin-top: 8px;
+    }
+    .mt{
+    margin-top: 10px;
+    }
+    .prev-btn{
+    height: 55px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    border-right: none;
+    }
+    .prev-btn .carousel-control-prev {
+    top: 50%;
+    left: 35%;
+    }
+    .previcon, .nexticon{
+     transform: rotate(0deg)
+    }
+    .next-btn{
+      height: 55px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    border-left: none;
+    border-right: 1px solid #cccccc;
+    }
+    .next-btn .carousel-control-next {
+    color: #333333;
+    top: 0%;
+    }
+    /*slider2*/
+
+/*contact*/
+
+.web {
+    padding-top: 70px;
+}
+
+.cont_text h1 {
+    font-size: 21px;
+    top: -13px;
+}
+
+.c_form {
+    margin-top: 0px;
+    margin-bottom: 2px;
+    padding: 0 26px;
+}
+
+
+/*contact*/
+
+
+/*footer*/
+
+.f-h11 {
+    padding-bottom: 23px;
+    font-size: 25px;
+}
+
+.f_list ul li a i {
+    font-size: 18px;
+    color: white;
+    padding: 7px 6px;
+    height: 35px;
+    width: 35px;
+}
+
+.f_h1 h1 {
+    font-size: 11px;
+    text-align: center;
+}
+
+.f_h1 h1 span {
+    margin: 0 5px;
+}
+
+.f1_list ul li a {
+    font-size: 13px;
+    margin: 0px 0px 1px 0px;
+}
+
+
+/*footer*/
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*slider*/
+    
+    .s_1 {
+        margin-top: 90px;
+        margin-bottom: 70px !important;
+    }
+    
+    .s_1 h1 {
+        font-size: 48px;
+    }
+    
+    .s_1 p {
+        padding: 20px 15px 37px 0 !important;
+    }
+    
+    .ccp {
+        left: 180px;
+    }
+    
+    .ccn {
+        left: 260px;
+    }
+    /*slider*/
+    /*about*/
+    
+    .abs_h1 {
+        text-align: center;
+    }
+    
+    .c_abusimg {
+        text-align: center;
+    }
+    /*about*/
+    /*product*/
+    
+    .product {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    
+    .pr_head {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    
+    .cnavbtn {
+        margin: 30px 0 0px 30px;
+    }
+    
+    .navu {
+        border: none;
+    }
+    
+    .work_detail {
+        padding: 3px;
+    }
+    /*product*/
+    /*download*/
+    
+    .download {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    /*download*/
+    /*who work with us*/
+    
+    .who-row-wrapper {
+        padding-top: 55px;
+        padding-bottom: 40px;
+    }
+    /*who work with us*/
+    /*pricing*/
+    
+    .pr1_text {
+        border: 1px solid #8e8e8e;
+        margin-top: -52px;
+        margin-bottom: 52px;
+        text-align: center;
+    }
+    
+    .pr {
+        margin-top: -16px;
+    }
+    
+    .pr h2 {
+        font-size: 27px;
+    }
+    
+    .pr_a {
+        margin: 37px 123px;
+    }
+    
+    .aci_a a {
+        padding: 9px 7px;
+    }
+    /*pricing*/
+    .pricing2 {
+    margin: 10px 0 43px;
+    padding: 10px 0
+     }
+     .pri2-btn button {
+    padding: 7px 21px;
+}
+     /*PRICHING*/
+    /*slider2*/
+    .sl-border {
+    padding: 20px 30px;
+    }
+    .sl-text h1 {
+    margin-top: 20px;
+    }
+    .sl-text h2 {
+    margin: 6px 0;
+    }
+    .sl-text p {
+    margin-top: 8px;
+    }
+    .mt{
+    margin-top: 20px;
+    }
+    .prev-btn{
+    height: 55px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    border-right: none;
+    }
+    .prev-btn .carousel-control-prev {
+    top: 50%;
+    left: 35%;
+    }
+    .previcon, .nexticon{
+     transform: rotate(0deg)
+    }
+    .next-btn{
+      height: 55px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    border-left: none;
+    border-right: 1px solid #cccccc;
+    }
+    .next-btn .carousel-control-next {
+    color: #333333;
+    top: 0%;
+    }
+    /*slider2*/
+    /*contact*/
+    
+    .web {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    
+    .c_form {
+        margin-top: 0px;
+        margin-bottom: 2px;
+        padding: 0px 25px;
+    }
+    /*contact*/
+    /*footer*/
+    
+    .f-h11 {
+        padding-bottom: 23px;
+    }
+    
+    .f_h1 h1 {
+        font-size: 13px;
+        text-align: center;
+    }
+    
+    .f_h1 h1 span {
+        margin: 0 5px;
+    }
+    
+    .f1_list ul li a {
+        font-size: 13px;
+        margin: 0px 0px 1px 0px;
+    }
+    /*footer*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*header*/
+    
+    .dropdown_custom[data-bs-popper] {
+        top: 45px;
+        left: 170px;
+    }
+    /*header*/
+    /*slider*/
+    
+    .s_1 {
+        margin-top: 65px;
+        margin-bottom: 100px;
+    }
+    
+    .ccp {
+        left: 230px;
+    }
+    
+    .ccn {
+        left: 362px;
+    }
+    /*slider*/
+    /*about us*/
+    
+    .c_abusimg {
+        text-align: center;
+    }
+    
+    .aci_a a {
+        padding: 14px 28px;
+    }
+    /*about us*/
+    /*product*/
+    
+    .product {
+        padding-bottom: 70px;
+        padding-top: 56px;
+    }
+    
+    .cnavbtn {
+        margin: 40px 0 0px 40px;
+    }
+    
+    .navu {
+        border: none;
+    }
+    
+    .work_detail {
+        padding: 3px;
+    }
+    /*product*/
+    /*download*/
+    
+    .download {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    /*download*/
+    /*PRICHING*/
+    .pricing2 {
+    margin: 25px 0 25px;
+    padding: 30px 0;
+     }
+     .pri2-btn button {
+    padding: 8px 25px;
+     }
+     /*PRICHING*/
+    /*contact*/
+    
+    .web {
+        padding-top: 45px;
+        padding-bottom: 81px;
+    }
+    
+    .c_form {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    /*contact*/
+    /*footer*/
+    
+    .f_h1 h1 {
+        font-size: 13px;
+    }
+    
+    .f_h1 h1 span {
+        margin: 0 5px;
+    }
+    
+    .f1_list ul li a {
+        font-size: 13px;
+        margin: 0px 0px 1px 0px;
+    }
+    /*footer*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ...
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    ...
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    ...
+}
